@@ -8,7 +8,7 @@ WSDA Music, a dynamic and innovative music company, has made its mark in the ind
 
 
 # Data Content
-The dataset for WSDA Music contains information for analyzing the company's operations and success. Also, it comprises 11 tables and 64 columns:
+The dataset for WSDA Music contains information for analyzing the company's operations and success. Also, it comprises 11 tables:
 - Album
 - Artist
 - Customer
