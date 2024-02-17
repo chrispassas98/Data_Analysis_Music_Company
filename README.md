@@ -4,6 +4,9 @@ WSDA Music, a dynamic and innovative music company, has made its mark in the ind
 ### DISCLAIMER: The data used in this project are fictional and not based on real-world events or entities.
 
 
+![](WSDA_music_images/WSDA_music.jpg)
+
+
 # Data Content
 The dataset for WSDA Music contains information for analyzing the company's operations and success. Also, it comprises 11 tables and 64 columns:
 - Album
