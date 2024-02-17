@@ -29,6 +29,6 @@ The employee table provides information on the company's staff, potentially allo
 Finally, the playlist and playlist track tables reflect how tracks are curated into playlists, offering insights into music curation strategies and preferences among different listener segments.
 
 
-
-
+#Source/Credits:
+This dataset was provided by the program: SQL Essential Training with Walter Shields. Walter Shields profile: https://www.linkedin.com/in/waltershields/
 
