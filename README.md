@@ -30,6 +30,26 @@ Finally, the playlist and playlist track tables reflect how tracks are curated i
 
 # Project Objective
 
+- Customers Buying Two Tracks for $0.99 Each
+- Most Common Billing Countries
+- Total Revenue Over Time
+- Best Selling Albums
+- Customer Demographics and Buying Patterns
+- Top Selling Artists
+- Most Popular Genres
+- Sales Performance by Employee
+- Employees Responsible for the Highest Individual Sales
+- Average Invoice Totals by City
+- City Performance Against Global Average Sales
+- Playlist Popularity
+- Selling Tracks per Country
+- Invoices Below Average Total
+- Effect of Music Genre on Sales by Country
+- Sales by Year and Genre
+
+
+
+
 
 
 # Source/Credits:
